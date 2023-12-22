@@ -8,7 +8,7 @@ In this repository, you'll find a collection of my projects that showcase my ski
 🚀 Current Project
 I'm currently working on a Complete NFT Marketplace! This project is a perfect blend of my skills in React, Solidity, and Node.js, and aims to offer a seamless and user-friendly experience for trading NFTs. Stay tuned for updates and sneak peeks!
 
-🌟[Check my portfolio](https://luiscodes.netlify.app/)
+🌟[Check my portfolio](https://luiscodes.net)
 
 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luiscaceresd)
