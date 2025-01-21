@@ -5,6 +5,7 @@ Hello there! I'm a passionate Full-Stack NextJs/AI Developer.
 🚀 [Current Project](https://lezgo.co)
 
 🌟[Check my portfolio](https://luiscodes.net)
+(Last update 2023)
 
 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luiscaceresd)
